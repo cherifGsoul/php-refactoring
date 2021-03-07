@@ -1,0 +1,6 @@
+formatter.name: pretty
+suites:
+  calculator:
+    namespace: Calculator
+    psr4_prefix: Calculator
+    src_path: ./src
